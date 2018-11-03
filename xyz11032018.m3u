@@ -1,0 +1,5 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="Movies: Ent",AAA: 007 JAMES BOND SPECTRE 
+http://1290922571.rsc.cdn77.org/vod1/movies/tr/action/spectre007jamesbond.mp4/playlist.m3u8
+#EXTINF:0 group-title="News: Foreign",BBB: AR ALJAZEERA 
+http://217.23.7.160:5475/live/iptv2016/5622295666745/65.ts
